@@ -36,6 +36,23 @@ The dataset contains synthetic observations representing customer/audience behav
 
 ---
 
+## 📊 Visual Results
+
+### Engagement Distribution
+![Engagement Histogram](outputs/figures/engagement_histogram.png)
+
+### Classification Performance
+
+| Logistic Regression | Artificial Neural Network |
+|:---:|:---:|
+| ![Logistic Regression Confusion Matrix](outputs/figures/confusion_matrix_logistic.png) | ![ANN Confusion Matrix](outputs/figures/confusion_matrix_ann.png) |
+
+### ANN Training History
+![ANN Training and Validation Loss](outputs/figures/ann_loss_curves.png)
+
+---
+
+
 
 ## 🎯 Objective
 
